@@ -1,0 +1,16 @@
+{
+  "name": "artifact7",
+  "version": "1.0.0",
+  "description": "Minimal Express.js HTTP server exposing two plain-text greeting endpoints.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "license": "ISC",
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "express": "^5.2.0"
+  }
+}
