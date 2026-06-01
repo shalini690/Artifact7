@@ -1,0 +1,16 @@
+{
+  "name": "artifact7",
+  "version": "1.0.0",
+  "description": "Node.js tutorial HTTP server built on Express.js (Artifact7).",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "license": "ISC",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "express": "^5.2.0"
+  }
+}
